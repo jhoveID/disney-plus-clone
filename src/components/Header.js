@@ -31,7 +31,7 @@ function Header() {
           <span>SERIES</span>
         </a>
       </NavMenu>
-      <UserImg src='https://media-exp1.licdn.com/dms/image/D5635AQFJ8hmBfgLO5A/profile-framedphoto-shrink_400_400/0/1659824155548?e=1661140800&v=beta&t=fKEPqkcfa97hGIZu_bflxftHAZh4lpO3xmSAYjL3_lw'></UserImg>
+      <UserImg src='https://cdn.dribbble.com/users/1577045/screenshots/4914645/media/028d394ffb00cb7a4b2ef9915a384fd9.png?compress=1&resize=768x576&vertical=top'></UserImg>
     </Nav>
   );
 }
